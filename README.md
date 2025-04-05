@@ -6,8 +6,10 @@ A simple Node.js command-line Rock-Paper-Scissors game where you play against th
 
 1. Clone the repo:
    ```bash
-   git clone <your-repo-url>
-   cd rock-paper-scissors
+   git clone <https://github.com/DevOlabode/rock-paper-scissors-with-node>
+   ```
+   ```bash
+   node script.js
    ```
 
 2. Install dependencies:
