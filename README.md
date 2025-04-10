@@ -8,10 +8,6 @@ A simple Node.js command-line Rock-Paper-Scissors game where you play against th
    ```bash
    git clone <https://github.com/DevOlabode/rock-paper-scissors-with-node>
    ```
-   ```bash
-   node script.js
-   ```
-
 2. Install dependencies:
    ```bash
    npm install
