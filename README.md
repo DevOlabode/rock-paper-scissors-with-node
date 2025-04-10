@@ -33,11 +33,11 @@ Scores: You: 1 | Computer: 0
 ```
 
 ## Built With
-
+-  **Javascript**
 - **Node.js**
 - [prompt-sync](https://www.npmjs.com/package/prompt-sync) - For user input
 - [colors](https://www.npmjs.com/package/colors) - For colorful terminal output
 
-## License
 
-ISC
+## Acknoledgement.
+- The Odin Project 
